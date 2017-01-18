@@ -1,0 +1,19 @@
+{
+  "name": "open-map-path-finder",
+  "version": "1.0.0",
+  "description": "Web server and front end for Hadoop project Path Finder",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zhoutwo/Open-Map-Path-Finder.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zhoutwo/Open-Map-Path-Finder/issues"
+  },
+  "homepage": "https://github.com/zhoutwo/Open-Map-Path-Finder#readme"
+}
