@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/zhoutwo/Open-Map-Path-Finder/issues"
   },
-  "homepage": "https://github.com/zhoutwo/Open-Map-Path-Finder#readme"
+  "homepage": "https://github.com/zhoutwo/Open-Map-Path-Finder#readme",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
 }
